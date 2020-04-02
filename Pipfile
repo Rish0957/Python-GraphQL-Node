@@ -4,6 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+<<<<<<< HEAD
 autopep8 = "*"
 
 [packages]
@@ -11,6 +12,11 @@ django = "*"
 graphene-django = "*"
 django-graphql-jwt = "*"
 django-cors-headers = "*"
+=======
+
+[packages]
+graphene = "*"
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
 
 [requires]
 python_version = "3.8"

@@ -1,7 +1,11 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "70b219e73d4bfd20f4b3aafa02f9ca96281e833aea391df2358f8ab533d7c93e"
+=======
+            "sha256": "d0b9c158569193bdc9e691d1ed8d91cefcdfe60c5959ba4b0f1ab26d67ed57d6"
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +27,7 @@
             ],
             "version": "==7.0.0"
         },
+<<<<<<< HEAD
         "asgiref": {
             "hashes": [
                 "sha256:8036f90603c54e93521e5777b2b9a39ba1bad05773fcf2d208f0299d1df58ce5",
@@ -54,11 +59,14 @@
             "index": "pypi",
             "version": "==0.3.0"
         },
+=======
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
         "graphene": {
             "hashes": [
                 "sha256:09165f03e1591b76bf57b133482db9be6dac72c74b0a628d3c93182af9c5a896",
                 "sha256:2cbe6d4ef15cfc7b7805e0760a0e5b80747161ce1b0f990dfdc0d2cf497c12f9"
             ],
+<<<<<<< HEAD
             "version": "==2.1.8"
         },
         "graphene-django": {
@@ -68,6 +76,10 @@
             ],
             "index": "pypi",
             "version": "==2.9.0"
+=======
+            "index": "pypi",
+            "version": "==2.1.8"
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
         },
         "graphql-core": {
             "hashes": [
@@ -89,6 +101,7 @@
             ],
             "version": "==2.3"
         },
+<<<<<<< HEAD
         "pyjwt": {
             "hashes": [
                 "sha256:5c6eca3c2940464d106b99ba83b00c6add741c9becaec087fb7ccdefea71350e",
@@ -103,6 +116,8 @@
             ],
             "version": "==2019.3"
         },
+=======
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
         "rx": {
             "hashes": [
                 "sha256:13a1d8d9e252625c173dc795471e614eadfe1cf40ffc684e08b8fff0d9748c23",
@@ -110,6 +125,7 @@
             ],
             "version": "==1.6.1"
         },
+<<<<<<< HEAD
         "singledispatch": {
             "hashes": [
                 "sha256:5b06af87df13818d14f08a028e42f566640aef80805c3b50c5056b086e3c2b9c",
@@ -117,12 +133,15 @@
             ],
             "version": "==3.4.0.3"
         },
+=======
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
         "six": {
             "hashes": [
                 "sha256:236bdbdce46e6e6a3d61a337c0f8b763ca1e8717c03b369e87a7ec7ce1319c0a",
                 "sha256:8f3cd2e254d8f793e7f3d6d9df77b92252b52637291d0f0da013c76ea2724b6c"
             ],
             "version": "==1.14.0"
+<<<<<<< HEAD
         },
         "sqlparse": {
             "hashes": [
@@ -148,4 +167,9 @@
             "version": "==2.5.0"
         }
     }
+=======
+        }
+    },
+    "develop": {}
+>>>>>>> 773c2e0ef894b1c7942a3d82ead13b73a53a6e2f
 }
